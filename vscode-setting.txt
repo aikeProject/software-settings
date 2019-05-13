@@ -1,8 +1,8 @@
 CODE SETTINGS SYNC UPLOAD SUMMARY
 Version: 3.2.9
 --------------------
-GitHub Token: deef168f228592a2301ed8ef9cb1a56002a77349
-GitHub Gist: e02328fd35f2e7cd672c53524d38d257
+GitHub Token: 966d6b2e97c4a1d92fd0f43babaf335a765662ce
+GitHub Gist: 8ae0918c69995a2b4c67ff894276c792
 GitHub Gist Type: Secret
 
 Restarting Visual Studio Code may be required to apply color and file icon theme.
@@ -41,7 +41,7 @@ Extensions Added:
   quokka-vscode v1.0.212
   terminal v0.0.10
   tslint v1.0.43
-  vetur v0.19.5
+  vetur v0.20.0
   vsc-material-theme v2.8.2
   vscode-css-peek v2.2.0
   vscode-docker v0.6.2
