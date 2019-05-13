@@ -1,0 +1,57 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.2.9
+--------------------
+GitHub Token: deef168f228592a2301ed8ef9cb1a56002a77349
+GitHub Gist: e02328fd35f2e7cd672c53524d38d257
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  locale.json > locale.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  anaconda-extension-pack v1.0.1
+  auto-close-tag v0.5.6
+  auto-rename-tag v0.0.15
+  autoimport v1.5.3
+  beautify v1.5.0
+  code-settings-sync v3.2.9
+  EditorConfig v0.13.0
+  eva-theme v0.7.6
+  githistory v0.4.6
+  gitlens v9.7.3
+  html-css-class-completion v1.18.0
+  html-snippets v0.2.1
+  lit-html v1.11.0
+  Material-theme v2.23.0
+  npm-intellisense v1.3.0
+  path-autocomplete v1.13.3
+  path-intellisense v1.4.2
+  prettier-plus v1.8.4
+  python v2019.4.12954
+  quokka-vscode v1.0.212
+  terminal v0.0.10
+  tslint v1.0.43
+  vetur v0.19.5
+  vsc-material-theme v2.8.2
+  vscode-css-peek v2.2.0
+  vscode-docker v0.6.2
+  vscode-eslint v1.8.2
+  vscode-extension-auto-import v1.4.3
+  vscode-html-css v0.2.0
+  vscode-language-pack-zh-hans v1.33.2
+  vscode-npm-script v0.3.7
+  vscode-theme-onedark v2.1.0
+  vscode-typescript-tslint-plugin v1.0.0
+  vscode-yaml v0.4.0
+--------------------
+Done.
