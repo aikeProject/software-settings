@@ -3,3 +3,4 @@
 - `webStorm`
 - `pyCharm`
 - `vscode`
+- `hyper`
